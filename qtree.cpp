@@ -4,7 +4,8 @@
 //
 //  Created by Max Reynolds on 4/28/19.
 //  Copyright © 2019 Max Reynolds. All rights reserved.
-//https://www.youtube.com/watch?v=S4z-C-96xfU&list=PLAp0ZhYvW6XbEveYeefGSuLhaPlFML9gP&index=4
+// References:
+// https://www.youtube.com/watch?v=S4z-C-96xfU&list=PLAp0ZhYvW6XbEveYeefGSuLhaPlFML9gP&index=4
 
 #include "qtree.hpp"
 
